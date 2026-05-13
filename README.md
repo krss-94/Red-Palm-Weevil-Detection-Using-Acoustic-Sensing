@@ -1,18 +1,3 @@
-<div align="center">
-<p align="center">
-  <img src="assets/banner.png" alt="Red Palm Weevil Detection Using Acoustic Sensing Banner" width="100%">
-</p>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Platform-ESP32-red?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Protocol-LoRa%20866%20MHz-blueviolet?style=for-the-badge&logo=lora-alliance&logoColor=white"/>
-<img src="https://img.shields.io/badge/Algorithm-TKEO%20Burst%20Analysis-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cost-₹252%20%2F%20tree-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Build-Arduino%20IDE%202.x-teal?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<br/><br/>
 
 # 🌴 RPW Sentinel
 
@@ -30,6 +15,23 @@
 </div>
 
 ---
+
+<div align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="Red Palm Weevil Detection Using Acoustic Sensing Banner" width="100%">
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Platform-ESP32-red?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Protocol-LoRa%20866%20MHz-blueviolet?style=for-the-badge&logo=lora-alliance&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithm-TKEO%20Burst%20Analysis-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cost-₹252%20%2F%20tree-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Build-Arduino%20IDE%202.x-teal?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<br/><br/>
+
 
 ## 📖 Table of Contents
 
