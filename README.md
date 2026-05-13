@@ -20,7 +20,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="Red Palm Weevil Detection Using Acoustic Sensing Banner" width="100%">
 </p>
-</div>
+
 <br/>
 
 <img src="https://img.shields.io/badge/Platform-ESP32-red?style=for-the-badge&logo=espressif&logoColor=white"/>
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Build-Arduino%20IDE%202.x-teal?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 <br/><br/>
-
+</div>
 
 ## 📖 Table of Contents
 
