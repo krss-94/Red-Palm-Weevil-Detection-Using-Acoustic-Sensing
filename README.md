@@ -1,4 +1,9 @@
 <div align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="Red Palm Weevil Detection Using Acoustic Sensing Banner" width="100%">
+</p>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Platform-ESP32-red?style=for-the-badge&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/Protocol-LoRa%20866%20MHz-blueviolet?style=for-the-badge&logo=lora-alliance&logoColor=white"/>
