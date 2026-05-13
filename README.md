@@ -12,7 +12,7 @@
 > Developed at **Sathyabama Institute of Science and Technology**, ECE Department  
 > Faculty Guide: **Dr. G. Rajalakshmi**
 
-</div>
+
 
 ---
 
@@ -20,7 +20,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="Red Palm Weevil Detection Using Acoustic Sensing Banner" width="100%">
 </p>
-
+</div>
 <br/>
 
 <img src="https://img.shields.io/badge/Platform-ESP32-red?style=for-the-badge&logo=espressif&logoColor=white"/>
